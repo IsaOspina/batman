@@ -4,9 +4,11 @@
         <title>The Dark Knight</title>
     </head>
     <body>
-        <h1>BATMAN</h1>
-        <p>Batman is the super-hero protector of <b class="fictional place">Gotham City</b>, a man dressed like a <i clas="animal">bat</i> who fights against evil and strikes terror into the hearts of criminals everywhere. In his secret identity, he assumes the alias of <b class="person">Bruce Wayne</b>, billionaire industrialist and notorious playboy; though "<b class="person">Bruce Wayne</b>" is technically his real name, this <b class="person">Bruce Wayne</b> is a disguise--that of the man he would have been had his parents not been murdered before his eyes when he was no more than a mere boy.
-
-Although Batman possesses no super-human powers, he is one of the world's smartest men and greatest fighters. His physical prowess and technical ingenuity make him an incredibly dangerous opponent. He is also a founding member of the <i class="team">Justice League</i> and the <i class="team">Outsiders</i>. <b class="person">Dick Grayson</b>, the first "crime orphan" to assume the identity of Robin and be nicknamed "The Boy Wonder," who currently uses the alias of Nightwing, is Wayne's hand-picked successor, and they operate simultaneously as part of <i class="team">Batman Incorporated.</i></p>
+        <h1>BATMAN, the basics</h1>
+        <p>Batman is the super-hero protector of <a href="https://en.wikipedia.org/wiki/Gotham_City">Gotham City</a>, a man dressed like a <i clas="animal">bat</i> who fights against evil and strikes terror into the hearts of criminals everywhere. In his secret identity, he assumes the alias of <b class="person">Bruce Wayne</b>, billionaire industrialist and notorious playboy; though "<b class="person">Bruce Wayne</b>" is technically his real name, this <b class="person">Bruce Wayne</b> is a disguise--that of the man he would have been had his parents not been murdered before his eyes when he was no more than a mere boy.
+        </p>
+            <img src="Batman.jpg">
+        <p>Although Batman possesses no super-human powers, he is one of the world's smartest men and greatest fighters. His physical prowess and technical ingenuity make him an incredibly dangerous opponent. He is also a founding member of the <i class="team">Justice League</i> and the <i class="team">Outsiders</i>. <b class="person">Dick Grayson</b>, the first "crime orphan" to assume the identity of Robin and be nicknamed "The Boy Wonder," who currently uses the alias of Nightwing, is Wayne's hand-picked successor, and they operate simultaneously as part of <i class="team">Batman Incorporated.</i></p>
+        
     </body>
 </html>
